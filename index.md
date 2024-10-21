@@ -10,3 +10,6 @@ Initialisation du dépôt Git vide dans /Users/skills/Projects/recipe-repository
 ```
 const nom ="Julienne gracia ";
 ```
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
